@@ -1,0 +1,118 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Production build directories
+dist/
+build/
+
+# Build cache directories
+.cache/
+.tmp/
+
+# Testing
+coverage/
+.vitest/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel cache
+.parcel-cache/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
+# Optional npm cache directory
+.npm/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Lock files (optional, usually should be committed)
+# Uncomment if you prefer not to commit lock files
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Jest cache (if using Jest alongside Vitest)
+jest-cache/
+jest-html-reporters-*.html
+
+# Storybook files
+storybook-static/
+
+# Cypress testing
+cypress/screenshots/
+cypress/videos/
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/
+
+# Remix build output
+.build/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Dependencies for monorepos (if applicable)
+packages/*/node_modules/
+
+# Module dependency cache
+.pnp/
+.pnp.js
+
+# Vitest cache directory
+.vitest/
+
+# Test coverage reports
+coverage/
+
+# IntelliJ files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code files
+.vscode/*
+
+# Miscellaneous
+*.env.local
+*.DS_Store
+Thumbs.db
